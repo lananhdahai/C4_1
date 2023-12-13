@@ -1,7 +1,8 @@
 #pragma once
 class Student
 {
-	int MSSV ;
+	int MSSV;
+	int hoten;
 
 };
 
