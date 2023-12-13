@@ -21,7 +21,11 @@
     <ClCompile Include="User.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="Lecture.cpp">
+=======
+    <ClCompile Include="Student.cpp">
+>>>>>>> V2
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -29,7 +33,11 @@
     <ClInclude Include="User.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+<<<<<<< HEAD
     <ClInclude Include="Lecture.h">
+=======
+    <ClInclude Include="Student.h">
+>>>>>>> V2
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
